@@ -1,6 +1,6 @@
 # Challenge Salva
 
-Programa desarrollado para el challenge de Bennue.
+Programa desarrollado para el challenge de Bennu.
 
 ## Ejecución
 
