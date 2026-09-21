@@ -12,11 +12,6 @@ docker container run -it --rm chavaper/challenge-salva
 
 El programa se ejecutará directamente en la terminal.
 
-### Parámetros del comando
-
-* `-it`: permite interactuar con el programa desde la terminal.
-* `--rm`: elimina automáticamente el contenedor cuando finaliza la ejecución.
-* `chavaper/challenge-salva`: imagen Docker utilizada para ejecutar el programa.
 
 ## Requisitos
 
