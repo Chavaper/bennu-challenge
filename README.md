@@ -4,7 +4,7 @@ Programa desarrollado para el challenge de Bennu.
 
 ## Ejecución
 
-Para ejecutar el programa, asegúrate de tener **Docker** instalado y ejecuta:
+Para ejecutar el programa, asegúrate de tener **Docker** instalado y ejecutar en cmd o bash:
 
 ```bash
 docker container run -it --rm chavaper/challenge-salva
